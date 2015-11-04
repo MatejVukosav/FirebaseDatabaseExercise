@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   <!-- <string name="firebase_url">https://<your-firebase>.firebaseio.com</string>-->
+    <string name="firebase_url">https://sweltering-torch-8500.firebaseio.com/</string>
+
+
+</resources>

@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FirebaseDatabaseExercise</string>
+    <string name="login_with_google">Login with Google+</string>
+    <string name="login_with_password">Prijavi se</string>
+    <string name="register">Registriraj se</string>
+
 </resources>
